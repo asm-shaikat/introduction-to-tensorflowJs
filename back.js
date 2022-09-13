@@ -1,4 +1,4 @@
-const x = document.getElementById('initial');
+// const x = document.getElementById('initial');
 
 // Define a model for linear regression.
 const model = tf.sequential();
